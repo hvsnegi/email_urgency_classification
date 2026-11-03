@@ -1,0 +1,14 @@
+# Google API credentials & tokens
+credentials.json
+token.json
+
+# Local SQLite databases (cached emails)
+*.db
+*.sqlite3
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+.venv/
+env/
+EOF
